@@ -60,15 +60,51 @@ font-size: 20px;
 }
 
 
+.item-description {
+
+font-weight: 600;
+
+}
+
+
 .banner-greetings {
   font-size: 44px;
   font-weight: 600;
+}
+
+.secondary-back {
+background-color: #FFF8F3;
+}
+.about  {
+text-align: center;
+border-radius: 10px;
+margin-top: 130px;
+
+}
+
+main {
+
+max-width: 1140px;
+margin: 0 auto;
+padding: 130px 149px;
 }
 
 .banner-title {
   font-size: 60px;
   font-weight: bold;
   
+}
+.section-title {
+
+  font-size: 36px;
+  font-weight: bold;
+  color: #181818;
+
+}
+.section-description {
+
+font-size: 18px;
+color: #757575;
 }
 
 .header {
@@ -92,4 +128,9 @@ margin: 0 34px 0 200px;
 .banner-content {
  max-width: 580px;
  
+}
+
+.about-items{
+display: flex;
+justify-content: space-around;
 }
